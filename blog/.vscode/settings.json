@@ -16,9 +16,12 @@
     "workbench.settings.useSplitJSON": true,
     "editor.wordWrap": "off",
     "editor.wordWrapColumn": 80,
+    "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.formatOnSave": true
+    "[php]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
